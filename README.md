@@ -1,0 +1,1 @@
+# Synthetic_data_generation_of_one_to_one_patient_MRIs_for_privacy_preservation
